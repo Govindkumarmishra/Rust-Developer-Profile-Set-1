@@ -1,0 +1,6 @@
+[package]
+name = "check_weather_a_given_string_is_a_palindrome_or_not"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
