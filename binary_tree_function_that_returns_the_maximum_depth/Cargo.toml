@@ -1,0 +1,6 @@
+[package]
+name = "binary_tree_implement_a_function_that_returns_the_maximum_depth"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
